@@ -13,7 +13,7 @@ About
 -----
 
 The app is designed to help people with food allergies or dietary requirements quickly know whether they can eat a certain food.
-It also has a [rails backend] (https://github.com/harrim91/allergy_scanner_backend).
+It also has a [rails backend] (https://github.com/omgduke/allergy_scanner_backend).
 
 User Stories
 ------------
@@ -40,7 +40,7 @@ I want to be able to scan the barcode.
 
 Installation
 -------
-- Clone this repo `git clone git@github.com:harrim91/allergy_scanner_frontend.git`
+- Clone this repo `git clone git@github.com:omgduke/allergy_scanner_frontend.git`
 - Ensure you have node.js, bower, grunt and ionic installed.
 - `npm install`
 - `bower install`
